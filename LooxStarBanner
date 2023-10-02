@@ -1,0 +1,18 @@
+<div onclick="location.href='https://www.youngla.com/pages/customer-gallery';" class="divspan">
+<span class="borderSpan">
+<span class="fas fa-star checked"></span>
+<span class="fas fa-star checked"></span>
+<span class="fas fa-star checked"></span>
+<span class="fas fa-star checked"></span>
+<span class="fas fa-star checked"></span>
+</span>
+<h2 class="Footer__Title Heading u-h2" style="text-decoration: underline;">Over 30,000+ Reviews</h2>
+<span>Powered by Loox</span>
+</div>
+
+.divspan {    
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding: 20px 15px 20px 15px;
+    border: 5px solid rgb(200, 200, 200);
+}
